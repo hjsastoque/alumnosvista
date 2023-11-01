@@ -1,0 +1,6 @@
+com\alumnosvista\app\AlumnosvistaApplication.class
+com\alumnosvista\app\service\AlumnosVistaService.class
+com\alumnosvista\app\repository\IAlumnosVista.class
+com\alumnosvista\app\service\IAlumnoVistaService2.class
+com\alumnosvista\app\model\AlumnosVista.class
+com\alumnosvista\app\controller\AlumnosVistaController.class
